@@ -1,0 +1,56 @@
+.Popup-button {
+  display: inline-block;
+  width:30%;      
+  margin-bottom: 0.5em;
+  margin-top: 1.5em;
+  padding-top: .6em;
+  padding-bottom: .6em;
+  color: #fff;
+  background-color: #51aff7;
+  border: solid #cccccc 1px;
+  clear:right;
+  float:center;
+}
+
+.Popup-button:hover {
+  background-color: #0991f9;
+  cursor: pointer;
+}
+
+.Calendar-button {
+  display: inline-block;
+  width: 100%;       
+  height: 100%;      
+  margin-bottom: 0.1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  color: #fff;
+  background-color: #fcfcfc;
+  border: solid #cccccc 1px;
+  box-shadow: 2px 2px 1px #888888;
+  float:center;
+}
+
+.Calendar-button:hover {
+  background-color: #d8d8d8;
+  cursor: pointer;
+}
+
+.Calendar-button-scheduled {
+  display: inline-block;
+  width: 100%;       
+  height: 100%;      
+  margin-bottom: 0.1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  color: #fff;
+  background-color: #d06afc;
+  border: solid #cccccc 1px;
+  box-shadow: 2px 2px 1px #888888;
+  float:center;
+}
+
+.Calendar-button-scheduled:hover {
+  background-color: #b20cf9;
+  cursor: pointer;
+}

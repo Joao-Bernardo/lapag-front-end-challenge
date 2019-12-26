@@ -32,3 +32,17 @@
     transform: rotate(360deg);
   }
 }
+
+.Arrow-button {
+  border-radius: 50%;
+  background-color: #f2f2f2;
+  margin: 3px;
+}
+
+.Arrow-button:hover{
+  cursor: pointer;
+  background-color: #d8d8d8;
+}
+
+
+
